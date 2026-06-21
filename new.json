@@ -1,8 +1,8 @@
 
+
 {
-  "id": "003",
-  "title": "New Pay Agreement",
-  "message": "Please review the latest agreement.",
-  "priority": "important",
-  "image": "https://github.com/jflozach-blip/union-elite-broadcast/blob/main/Lottery%20Poster%202%20info.png"
+  "id": "002",
+  "title": "Live Broadcast Test",
+  "message": "If you can see this message, the Union Elite broadcast network is working.",
+  "priority": "urgent"
 }
