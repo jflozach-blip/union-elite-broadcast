@@ -1,0 +1,8 @@
+{
+  "name":"Union Elite",
+  "short_name":"UnionElite",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#0b3b8f",
+  "theme_color":"#0b3b8f"
+}
